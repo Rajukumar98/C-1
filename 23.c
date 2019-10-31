@@ -17,4 +17,5 @@ int main()
         s=s+t;
     }
     printf("Sum = %f",s);
+    print("\n");
 }
